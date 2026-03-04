@@ -6,8 +6,13 @@
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-Ricardo_André-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-andré)
-[![Gmail](https://img.shields.io/badge/-ra0083747@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ra0083747@gmail.com)
+**LinkedIn**  
+Ricardo André  
+[![LinkedIn](https://img.shields.io/badge/-Acessar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-andré)
+
+**Email**  
+ra0083747@gmail.com  
+[![Gmail](https://img.shields.io/badge/-Enviar_email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ra0083747@gmail.com)
 
 ---
 
@@ -21,17 +26,12 @@
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## 🛠️ Tech Stack
 
-### Linguagens
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Frameworks
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### Bancos de Dados
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
