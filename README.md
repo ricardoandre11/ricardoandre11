@@ -1,31 +1,55 @@
-# 👋 Olá, eu sou Ricardo André!
+# Olá, eu sou Ricardo André! 👋
 
-**Desenvolvedor Backend**
-
-[LinkedIn](https://www.linkedin.com/in/ricardoandre) • [Email](mailto:ricardoandre@email.com)
+💻 **Desenvolvedor Backend** apaixonado por tecnologia e inovação
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 🌐 Conecte-se comigo
 
-Sou Ricardo André, desenvolvedor backend focado em construir sistemas robustos e eficientes.  
-Adoro automatizar processos, otimizar aplicações e explorar novas tecnologias para entregar soluções de qualidade.  
-Acredito que código limpo e boas práticas são essenciais para criar softwares escaláveis e confiáveis.
-
----
-
-## ⚒️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-Ricardo_André-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-andré)
+[![Gmail](https://img.shields.io/badge/-ra0083747@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ra0083747@gmail.com)
 
 ---
 
-## 📊 Minhas Estatísticas
+## 📝 Sobre mim
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoandre&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoandre&show_icons=true&theme=radical)
+- 🔭 **Desenvolvedor Backend** focado em construir sistemas robustos e escaláveis
+- 🌱 **Entusiasta de Python** (Django, Flask, FastAPI)
+- 💾 Trabalhando com **PostgreSQL** e **MySQL** no desenvolvimento de APIs e sistemas web
+- 🏗️ Mentalidade orientada a **arquitetura**, **performance** e **código limpo**
+- 📚 **Evolução constante**, sempre estudando e aplicando na prática
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+### Linguagens
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Frameworks
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardoandre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoandre&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+## 🐍 Minha Contribuição
+
+![Snake animation](https://github.com/ricardoandre/ricardoandre/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐️ *Sempre aberto a novos desafios e colaborações!*
