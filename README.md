@@ -8,7 +8,7 @@
 
 **LinkedIn**  
 Ricardo André  
-[![LinkedIn](https://img.shields.io/badge/-Acessar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-andré)
+[![LinkedIn](https://img.shields.io/badge/-Acessar-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ricardo-andré](https://www.linkedin.com/in/ricardo-andr%C3%A9-855266372/))
 
 **Email**  
 ra0083747@gmail.com  
