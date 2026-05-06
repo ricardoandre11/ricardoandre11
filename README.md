@@ -38,7 +38,7 @@ class RicardoAndre:
         self.age         = 18
         self.role        = "Backend Developer"
         self.location    = "Angola 🇦🇴"
-        self.languages   = ["Python", "SQL", "Typescript]
+        self.languages   = ["Python", "SQL", "Typescript"]
         self.frameworks  = ["Django", "Flask", "FastAPI"]
         self.databases   = ["PostgreSQL", "MySQL"]
         self.focus       = ["API Design", "Clean Architecture", "Performance"]
